@@ -1,24 +1,25 @@
 ### Hi, I'm Hemanshu 👋
 
-<h5> I am a Web Developer / Electronics Enthusiast.</h5> I have a passion for learning and sharing my knowlege with others a public as possible.
+<h3> I am a Web Developer / Electronics Enthusiast.</h3> I have a passion for learning and sharing my knowlege with others a public as possible.
 
 ---
 
-##### 🌱 I’m currently learning :
+#### 🌱 I’m currently learning :
 
 - Vue js
 - VHDL
 - Altium : PCB Design Software & Tools
 - QT C++
 
-##### 🔭 Ongoing Project
+#### 🔭 Ongoing Project :
 
 - Laravel E-commerce site : [Code](https://github.com/hemanshuEng/woocommerce-react)
 - Learning FPGA : [Code](https://github.com/hemanshuEng/FPGA)
 
-##### Follow me :
+
 
 <p align='center'>
+<h4> Follow me : </h4>
 <a href="https://www.linkedin.com/in/hemanshukhodiyar/"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC5kShFwMVWTK8HeSKBQcvHA?view_as=subscriber"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.twitch.tv/shapeelectronics"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/twitch.png?raw=true"></a>&nbsp;&nbsp;
