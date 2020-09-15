@@ -1,10 +1,23 @@
-### Hi, I'm Hemanshu 👋     
+### Hi, I'm Hemanshu 👋
 
 <h5> I am a Web Developer / Electronics Enthusiast.</h5> I have a passion for learning and sharing my knowlege with others a public as possible.
 
 ---
 
+##### 🌱 I’m currently learning :
+
+- Vue js
+- VHDL
+- Altium : PCB Design Software & Tools
+- QT C++
+
+##### 🔭 Ongoing Project
+
+- Laravel E-commerce site : [Code](https://github.com/hemanshuEng/woocommerce-react)
+- Learning FPGA : [Code](https://github.com/hemanshuEng/FPGA)
+
 ##### Follow me :
+
 <p align='center'>
 <a href="https://www.linkedin.com/in/hemanshukhodiyar/"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC5kShFwMVWTK8HeSKBQcvHA?view_as=subscriber"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
@@ -26,4 +39,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
