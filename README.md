@@ -1,6 +1,10 @@
 ### Hi, I'm Hemanshu 👋     
 
-<h5> I am a Web Developer / Electronics Enthusiast.</h5>
+<h5> I am a Web Developer / Electronics Enthusiast.</h5> I have a passion for learning and sharing my knowlege with others a public as possible.
+
+---
+
+##### Follow me :
 <p align='center'>
 <a href="https://www.linkedin.com/in/hemanshukhodiyar/"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UC5kShFwMVWTK8HeSKBQcvHA?view_as=subscriber"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
@@ -9,7 +13,6 @@
 <a href="https://www.instagram.com/shapeelectronics/"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ShapElectronics"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-- 📫 How to reach me:
 <!--
 **hemanshuEng/hemanshuEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
