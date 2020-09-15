@@ -1,5 +1,10 @@
-### Hi, I'm Hemanshu 👋
+### Hi, I'm Hemanshu 👋     
 
+<h5> I am a Web Developer / Electronics Enthusiast.</h5>
+<p align='center'>
+<a href="https://www.linkedin.com/in/hemanshukhodiyar/"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/assets/icon/linkedin.png?raw=true"></a>
+</p>
+- 📫 How to reach me:
 <!--
 **hemanshuEng/hemanshuEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
