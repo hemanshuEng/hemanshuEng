@@ -2,7 +2,8 @@
 
 <h5> I am a Web Developer / Electronics Enthusiast.</h5>
 <p align='center'>
-<a href="https://www.linkedin.com/in/hemanshukhodiyar/"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/assets/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/hemanshukhodiyar/"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hemanshukhodiyar/"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/youtube.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 - 📫 How to reach me:
 <!--
