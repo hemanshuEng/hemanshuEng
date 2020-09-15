@@ -22,6 +22,7 @@
 
 ---
 #### Technical Skills 
+<p float="left">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
@@ -32,7 +33,7 @@
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" class="rounded-1 mr-3" width="25" height="25" alt="linux">
-
+<p>
 <h3 align='center'> Follow me : </h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/hemanshukhodiyar/"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
