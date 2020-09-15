@@ -26,6 +26,8 @@
 <a href="https://www.instagram.com/shapeelectronics/"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ShapElectronics"><img height="30" src="https://github.com/hemanshuEng/hemanshuEng/blob/master/assets/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 </p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=hemanshuEng.hemanshuEng)
 <!--
 **hemanshuEng/hemanshuEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
